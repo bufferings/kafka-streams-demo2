@@ -1,0 +1,9 @@
+{
+  "name": "Recovery",
+  "type": "record",
+  "fields": [
+    {"name": "id",  "type": "string"},
+    {"name": "count", "type": "int"},
+    {"name": "shiiba", "type": "string"}
+  ]
+}

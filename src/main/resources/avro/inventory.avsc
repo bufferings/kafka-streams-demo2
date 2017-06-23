@@ -1,0 +1,8 @@
+{
+  "name": "Inventory",
+  "type": "record",
+  "fields": [
+    {"name": "id",  "type": "string"},
+    {"name": "count", "type": "int"}
+  ]
+}
